@@ -14,9 +14,7 @@ The reason for this GitHub repo is to:
 - 🔍 Provide proof of skills in multiple areas
 - 🧾 Demonstrate consistency, growth, and real-world coding experience to potential employers
 - 🤝 Provide my solutions to other programmers on the platform
-
-No hype. No “AI will solve everything” fantasies.  
-Just code, learning, and improvement—one project at a time 👨‍💻🔥.
+- 👨‍💻 Code, learn & improve myself consistently
 
 Feel free to explore my page, the projects, review the code, or use anything here as a learning resource.
 If you’re a fellow developer, feel free to explore and reuse anything here, free of charge.  
